@@ -1,5 +1,4 @@
-# ex-gnn
-Tutorial on Graph Neural Networks for Particle Jet Classification using Deep Graph Library
+# Tutorial on Graph Neural Networks for Particle Jet Classification using Deep Graph Library
 
 Graph Neural Networks (GNNs) were developed to handle data structures where the data points lack an explicit order but have interconnected relationships. Examples of such structures include molecules or social networks, both of which can be effectively represented as graphs. In recent years, GNNs have also gained popularity in particle physics for various applications.
 
